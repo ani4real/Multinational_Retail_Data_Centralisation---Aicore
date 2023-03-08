@@ -1,1 +1,1 @@
-# Multinational_Retail_Data_Centralisation---Aicore
+# Multinational_Retail_Data_Centralisation-Aicore
